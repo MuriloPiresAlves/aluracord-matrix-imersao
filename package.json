@@ -14,5 +14,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  }
+  },
+  "repository": "https://github.com/MuriloPiresAlves/aluracord-matrix-imersao.git",
+  "author": "Your Name~ <murilopiresalves2@gmail.com>"
 }
